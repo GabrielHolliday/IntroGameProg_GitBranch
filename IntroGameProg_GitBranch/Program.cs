@@ -12,7 +12,7 @@ namespace IntroGameProg_GitBranch
         {
             Console.WriteLine("mmmm");
             await Task.Delay(1000);
-            Console.WriteLine("Good Moring!");
+            Console.WriteLine("Good Night!");
         }
         static void Main(string[] args)
         {
